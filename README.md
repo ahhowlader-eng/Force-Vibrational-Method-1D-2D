@@ -141,7 +141,7 @@ files are loaded using `scipy.io.loadmat`.
 * Phonon transport in defective 2D materials
 * Percolation effects on vibrational modes
 * Disorder-induced localization studies
-* Validation against molecular dynamics or VASP phonons
+* Validation against molecular dynamics or density functional phonons
 
 ---
 
